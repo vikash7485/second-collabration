@@ -1,0 +1,28 @@
+.id1{
+    background-color: lightgoldenrodyellow;
+    border: 2px solid orange;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px grey;
+
+}
+.id2{
+    background-color: rgb(145, 38, 59);
+    border: 2px solid rgb(76, 0, 255);
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgb(22, 98, 41);
+
+}
+
+.id3{
+    background-color: rgb(230, 173, 222);
+    border: 2px solid rgb(255, 42, 0);
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px darkblue;
+
+}
